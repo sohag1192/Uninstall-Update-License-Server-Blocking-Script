@@ -80,5 +80,3 @@ Would you like me to also add an **unblock function** so you can easily remove t
 - Prevents automatic license checks or forced updates
 
 ---
-
-Let me know if you want to wrap this into a branded installer script, add metadata tagging, or automate license validation and alerting. I can scaffold that next.
